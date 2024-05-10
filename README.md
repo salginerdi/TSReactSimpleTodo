@@ -19,6 +19,8 @@ incelemek için: [tıklayınız](https://tstodolist-woad.vercel.app/)
 
 - **Yeni bir görev eklemek** için "Yeni Görev Ekle" butonuna tıklayın.
 - **Bir görevi silmek** için, görev altındaki "Sil" butonuna tıklayın.
+  ![todotypescript](https://github.com/salginerdi/TSReactSimpleTodo/assets/110611268/3f83d8db-f158-418d-b2ff-57216bd270e4)
+
 ___
 # Simple Todo List with TypeScript and React
 
@@ -42,6 +44,7 @@ to preview: [click here](https://tstodolist-woad.vercel.app/)
 
 - To **add a new task**, click on the "Add New Task" button.
 - To **delete a task**, click on the "Delete" button under the task.
+![todotypescript](https://github.com/salginerdi/TSReactSimpleTodo/assets/110611268/e4c97e62-97c3-4cfc-bba5-46565e642ebd)
 
 ___
 
