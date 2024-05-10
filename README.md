@@ -2,6 +2,8 @@
 
 Bu proje, TypeScript ve React kullanılarak oluşturulmuş basit bir Todo List uygulamasını içerir. Uygulama, kullanıcının yapılacak işleri ve bu işlerin yapılma süresini eklemesine ve silebilmesine olanak tanır.
 
+incelemek için: [tıklayınız](https://tstodolist-woad.vercel.app/)
+
 ## Nasıl Çalıştırılır
 
 1. Projeyi bilgisayarınıza klonlayın:
@@ -21,6 +23,8 @@ ___
 # Simple Todo List with TypeScript and React
 
 This project contains a simple Todo List application built with TypeScript and React. The application allows users to add and delete tasks, as well as specify their completion time.
+
+to preview: [click here](https://tstodolist-woad.vercel.app/)
 
 ## How to Run
 
